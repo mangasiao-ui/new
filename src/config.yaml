@@ -1,4 +1,4 @@
-data_path: 'C:\Users\manga\OneDrive\Desktop\Python\new\data\mini_project_1_data.csv'
+data_path: 'C:\Users\manga\OneDrive\Desktop\Python\new\new\data\mini_project_1_data.csv'
 target_column: shares
 val_test_size: 0.2
 val_size: 0.5
