@@ -1,0 +1,14 @@
+joblib          1.6.0
+matplotlib      3.11.2
+numpy           2.5.3
+packaging       26.3
+pandas          3.0.6
+pip             26.3
+pyparsing       3.3.3
+python-dateutil 2.9.0.post0
+PyYAML          6.0.3
+scikit-learn    1.9.1
+scipy           1.18.1
+seaborn         0.13.2
+threadpoolctl   3.8.0
+Python          3.13.154
